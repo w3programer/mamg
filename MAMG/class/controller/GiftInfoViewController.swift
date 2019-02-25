@@ -10,12 +10,6 @@ import UIKit
 
 class GiftInfoViewController: UIViewController {
 
-    
-    
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
 

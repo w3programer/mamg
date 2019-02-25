@@ -8,15 +8,25 @@
 
 import UIKit
 
-class HalsViewController: UIViewController {
-
+class HalsViewController: UIViewController , UICollectionViewDataSource,UICollectionViewDelegate {
+var hallsarray = [Hallmodel]()
+    @IBOutlet weak var hallscollection: UICollectionView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        hallscollection.dataSource =  self
+        hallscollection.delegate =  self
         // Do any additional setup after loading the view.
     }
     
-
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        hallsarray.count
+    }
+    
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = wishlistCollection.dequeueReusableCell(withReuseIdentifier: "wishlistCollectionViewCell" ,for: indexPath) as! wishlistCollectionViewCell
+        cell.image = hallsarray[indexPath.row].picture
+        return cell
+    }
     /*
     // MARK: - Navigation
 

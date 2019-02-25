@@ -1,27 +1,24 @@
 
 import UIKit
 
-class TourViewController: UIViewController {
+class TourViewController: UIViewController ,UITableViewDataSource , UITableViewDelegate {
 
+
+    @IBOutlet weak var tourtable: UITableView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        tourtable.dataSource = self
+        tourtable.delegate = self
 
         // Do any additional setup after loading the view.
     }
-    
-    @IBOutlet weak var tourtitle: UILabel!
-    
-    @IBAction func tourButton(_ sender: UIButton) {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        
     }
     
-    @IBAction func sightech(_ sender: Any) {
-    }
-    
-    
-    @IBAction func planyouttour(_ sender: Any) {
-    }
-    
-    @IBAction func favourtTours(_ sender: Any) {
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        
+        
     }
     
     /*

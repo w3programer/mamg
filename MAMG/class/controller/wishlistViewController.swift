@@ -23,7 +23,7 @@ class wishlistViewController: UIViewController ,UICollectionViewDataSource,UICol
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = wishlistCollection.dequeueReusableCell(withReuseIdentifier: "wishlistCollectionViewCell" ,for: indexPath) as! wishlistCollectionViewCell
-        cell.image = wishlistarray[indexPath.row].U_id
+        cell.image = wishlistarray[indexPath.row].Pro_id
         cell.wishtitle = wishlistarray[indexPath.row].Wishlist_id
         return cell
         

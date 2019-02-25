@@ -16,13 +16,7 @@ class HalsInformationViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    @IBOutlet weak var halsdetailes: UILabel!
-    
-    
-    @IBAction func science(_ sender: Any) {
-    }
-    @IBAction func techknology(_ sender: Any) {
-    }
+
 
     /*
      // MARK: - Navigation

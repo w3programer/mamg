@@ -15,15 +15,7 @@ class tourhistoryViewController: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    
-    @IBAction func firsttour(_ sender: Any) {
-    }
-    
-    @IBAction func secoundtour(_ sender: Any) {
-    }
-    
-    @IBAction func thiredtour(_ sender: Any) {
-    }
+
     
     /*
     // MARK: - Navigation
