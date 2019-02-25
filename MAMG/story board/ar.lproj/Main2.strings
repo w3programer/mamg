@@ -1,0 +1,534 @@
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "03B-S7-erc"; */
+"03B-S7-erc.text" = "Sunday";
+
+/* Class = "UILabel"; text = "اسم الجولة"; ObjectID = "0Mw-cy-b0F"; */
+"0Mw-cy-b0F.text" = "اسم الجولة";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "0SK-OG-Txs"; */
+"0SK-OG-Txs.text" = "Sunday";
+
+/* Class = "UILabel"; text = "الوصف"; ObjectID = "0Um-o2-KVk"; */
+"0Um-o2-KVk.text" = "الوصف";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "1D0-Cq-e7Y"; */
+"1D0-Cq-e7Y.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "1Ru-82-994"; */
+"1Ru-82-994.text" = "Sunday";
+
+/* Class = "UILabel"; text = "جولة فيزياء"; ObjectID = "1Uq-Nq-0ho"; */
+"1Uq-Nq-0ho.text" = "جولة فيزياء";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "2SF-HP-vdg"; */
+"2SF-HP-vdg.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2l8-d3-L1r"; */
+"2l8-d3-L1r.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Upload"; ObjectID = "2yr-qt-mC5"; */
+"2yr-qt-mC5.normalTitle" = "Upload";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "30E-YE-QjZ"; */
+"30E-YE-QjZ.text" = "لوريم";
+
+/* Class = "UILabel"; text = "gift 2"; ObjectID = "32K-Mj-on5"; */
+"32K-Mj-on5.text" = "gift 2";
+
+/* Class = "UILabel"; text = "Tech tour"; ObjectID = "32i-CT-YqG"; */
+"32i-CT-YqG.text" = "Tech tour";
+
+/* Class = "UILabel"; text = "Favorite Tours"; ObjectID = "3An-8j-jGd"; */
+"3An-8j-jGd.text" = "Favorite Tours";
+
+/* Class = "UILabel"; text = "Picture"; ObjectID = "4XF-Y2-gIc"; */
+"4XF-Y2-gIc.text" = "Picture";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "4an-3R-kY4"; */
+"4an-3R-kY4.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "4yT-6R-oKW"; */
+"4yT-6R-oKW.text" = "Sunday";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "5Q3-uI-43g"; */
+"5Q3-uI-43g.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "6Z1-Hm-hZl"; */
+"6Z1-Hm-hZl.text" = "Sunday";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "6gO-BJ-2Zj"; */
+"6gO-BJ-2Zj.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Discovery Oasis"; ObjectID = "7Wl-at-Sry"; */
+"7Wl-at-Sry.text" = "Discovery Oasis";
+
+/* Class = "UILabel"; text = "Visiting Time"; ObjectID = "7jZ-eI-CTk"; */
+"7jZ-eI-CTk.text" = "Visiting Time";
+
+/* Class = "UILabel"; text = "الهدية  ١"; ObjectID = "7l8-5h-svc"; */
+"7l8-5h-svc.text" = "الهدية  ١";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "7uR-Oa-dYA"; */
+"7uR-Oa-dYA.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "88u-5Z-hKw"; */
+"88u-5Z-hKw.text" = "لوريم";
+
+/* Class = "UILabel"; text = "خطط لجولتك"; ObjectID = "99f-Fx-Jbj"; */
+"99f-Fx-Jbj.text" = "خطط لجولتك";
+
+/* Class = "UIButton"; normalTitle = "اوجد"; ObjectID = "AL2-QY-ayr"; */
+"AL2-QY-ayr.normalTitle" = "اوجد";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "AUB-CZ-9BV"; */
+"AUB-CZ-9BV.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "الثلاثاء"; ObjectID = "B8w-or-mJx"; */
+"B8w-or-mJx.text" = "الثلاثاء";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "BZa-m6-EgP"; */
+"BZa-m6-EgP.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "CP5-nR-XYt"; */
+"CP5-nR-XYt.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "CrJ-qI-J7m"; */
+"CrJ-qI-J7m.text" = "Sunday";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "CvB-S7-pmW"; */
+"CvB-S7-pmW.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "DbT-Yo-1hy"; */
+"DbT-Yo-1hy.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "Dum-Ti-QZs"; */
+"Dum-Ti-QZs.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "تاريخ الجولات"; ObjectID = "Dxi-g1-GAC"; */
+"Dxi-g1-GAC.text" = "تاريخ الجولات";
+
+/* Class = "UILabel"; text = "object 1"; ObjectID = "Edb-4d-fQf"; */
+"Edb-4d-fQf.text" = "object 1";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "Eev-iR-KsM"; */
+"Eev-iR-KsM.text" = "لوريم";
+
+/* Class = "UIButton"; normalTitle = "Select all"; ObjectID = "EoL-Ge-b9n"; */
+"EoL-Ge-b9n.normalTitle" = "Select all";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "EvW-gX-JG2"; */
+"EvW-gX-JG2.text" = "لوريم";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "FA2-fG-IVY"; */
+"FA2-fG-IVY.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "gift 1"; ObjectID = "FCh-rQ-Vr2"; */
+"FCh-rQ-Vr2.text" = "gift 1";
+
+/* Class = "UILabel"; text = "الاحد"; ObjectID = "FIS-4M-VmY"; */
+"FIS-4M-VmY.text" = "الاحد";
+
+/* Class = "UILabel"; text = "Bio Tour"; ObjectID = "FXw-Ik-gaX"; */
+"FXw-Ik-gaX.text" = "Bio Tour";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "FqP-i7-Q0W"; */
+"FqP-i7-Q0W.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "GVk-QR-opn"; */
+"GVk-QR-opn.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "HBb-MY-YOX"; */
+"HBb-MY-YOX.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "خطط لجولتك"; ObjectID = "HBg-XF-quw"; */
+"HBg-XF-quw.text" = "خطط لجولتك";
+
+/* Class = "UILabel"; text = "The living world"; ObjectID = "HDK-Yo-v0T"; */
+"HDK-Yo-v0T.text" = "The living world";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "HRZ-uY-Pwv"; */
+"HRZ-uY-Pwv.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "Hc5-Gv-xJM"; */
+"Hc5-Gv-xJM.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "Visiting Time"; ObjectID = "IQS-nu-0DZ"; */
+"IQS-nu-0DZ.text" = "Visiting Time";
+
+/* Class = "UILabel"; text = "الخميس"; ObjectID = "Ie3-2e-BOw"; */
+"Ie3-2e-BOw.text" = "الخميس";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolor "; ObjectID = "JCq-nN-NYn"; */
+"JCq-nN-NYn.text" = "Lorem Ipsum Dolor ";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "JYj-4t-8AO"; */
+"JYj-4t-8AO.text" = "مخلوقات الحية";
+
+/* Class = "UILabel"; text = "object 2"; ObjectID = "KBU-Dj-KIq"; */
+"KBU-Dj-KIq.text" = "object 2";
+
+/* Class = "UILabel"; text = "الصورة"; ObjectID = "KLE-QT-GMe"; */
+"KLE-QT-GMe.text" = "الصورة";
+
+/* Class = "UILabel"; text = "الهدية  ٢"; ObjectID = "LJc-rt-FZs"; */
+"LJc-rt-FZs.text" = "الهدية  ٢";
+
+/* Class = "UIButton"; normalTitle = "المفضلة"; ObjectID = "LYA-Se-AFA"; */
+"LYA-Se-AFA.normalTitle" = "المفضلة";
+
+/* Class = "UILabel"; text = "Discovery Oasis"; ObjectID = "LYT-56-H5P"; */
+"LYT-56-H5P.text" = "Discovery Oasis";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "LcK-6W-czr"; */
+"LcK-6W-czr.text" = "لوريم";
+
+/* Class = "UILabel"; text = "٥٥ ر س"; ObjectID = "LpH-pB-cEs"; */
+"LpH-pB-cEs.text" = "٥٥ ر س";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "MEb-HY-aIO"; */
+"MEb-HY-aIO.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "gift 1"; ObjectID = "MJn-ff-3Sh"; */
+"MJn-ff-3Sh.text" = "gift 1";
+
+/* Class = "UILabel"; text = "Wishlist"; ObjectID = "MMr-hX-DuT"; */
+"MMr-hX-DuT.text" = "Wishlist";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "MQ3-8U-nEw"; */
+"MQ3-8U-nEw.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Bio Tour"; ObjectID = "Mh0-m0-OZU"; */
+"Mh0-m0-OZU.text" = "Bio Tour";
+
+/* Class = "UILabel"; text = "Discrption"; ObjectID = "NNY-em-kOb"; */
+"NNY-em-kOb.text" = "Discrption";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "NbW-fJ-yyH"; */
+"NbW-fJ-yyH.text" = "Sunday";
+
+/* Class = "UILabel"; text = "object 1"; ObjectID = "NhZ-Az-11y"; */
+"NhZ-Az-11y.text" = "object 1";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Nld-cG-DmC"; */
+"Nld-cG-DmC.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Plan a Tour"; ObjectID = "O27-PB-GnE"; */
+"O27-PB-GnE.text" = "Plan a Tour";
+
+/* Class = "UILabel"; text = "gift 1"; ObjectID = "PFI-p8-uUH"; */
+"PFI-p8-uUH.text" = "gift 1";
+
+/* Class = "UILabel"; text = "بحث عن"; ObjectID = "PV3-Bz-55c"; */
+"PV3-Bz-55c.text" = "بحث عن";
+
+/* Class = "UILabel"; text = "الهدية  ٤"; ObjectID = "QhE-xZ-PqX"; */
+"QhE-xZ-PqX.text" = "الهدية  ٤";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "QrV-Fn-8dh"; */
+"QrV-Fn-8dh.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "Enjoy Your Tour"; ObjectID = "RHe-7u-q8e"; */
+"RHe-7u-q8e.text" = "Enjoy Your Tour";
+
+/* Class = "UILabel"; text = "قائمة الامنيات"; ObjectID = "RMm-gn-JaV"; */
+"RMm-gn-JaV.text" = "قائمة الامنيات";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "RRY-AM-qvi"; */
+"RRY-AM-qvi.text" = "Sunday";
+
+/* Class = "UILabel"; text = "الهدية  ١"; ObjectID = "Rev-WO-TkX"; */
+"Rev-WO-TkX.text" = "الهدية  ١";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "RmO-Vn-SNs"; */
+"RmO-Vn-SNs.text" = "مخلوقات الحية";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "S4A-qA-25V"; */
+"S4A-qA-25V.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "sea life tour"; ObjectID = "SCG-m3-pCQ"; */
+"SCG-m3-pCQ.text" = "sea life tour";
+
+/* Class = "UITextField"; placeholder = "الاسم"; ObjectID = "TS3-gi-kGi"; */
+"TS3-gi-kGi.placeholder" = "الاسم";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "TVt-Gs-2Ra"; */
+"TVt-Gs-2Ra.text" = "Day";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "TZU-D7-hLU"; */
+"TZU-D7-hLU.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "الهدية ١"; ObjectID = "TfP-TB-hAX"; */
+"TfP-TB-hAX.text" = "الهدية ١";
+
+/* Class = "UILabel"; text = "جولة أحياء"; ObjectID = "U40-co-7EZ"; */
+"U40-co-7EZ.text" = "جولة أحياء";
+
+/* Class = "UIButton"; normalTitle = "المسجد"; ObjectID = "UoK-6R-Zei"; */
+"UoK-6R-Zei.normalTitle" = "المسجد";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "VCU-9w-jaz"; */
+"VCU-9w-jaz.text" = "لوريم";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "VO8-r3-9Gu"; */
+"VO8-r3-9Gu.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "Vsu-Xx-z5r"; */
+"Vsu-Xx-z5r.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "Wbn-c0-QAO"; */
+"Wbn-c0-QAO.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "XBM-yj-Spn"; */
+"XBM-yj-Spn.text" = "Sunday";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "XJR-Cc-02f"; */
+"XJR-Cc-02f.text" = "مخلوقات الحية";
+
+/* Class = "UIButton"; normalTitle = "القبة العلمية"; ObjectID = "XYe-U0-Su7"; */
+"XYe-U0-Su7.normalTitle" = "القبة العلمية";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "Xr9-cw-bj3"; */
+"Xr9-cw-bj3.text" = "مخلوقات الحية";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "ZLh-lr-5Fg"; */
+"ZLh-lr-5Fg.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "الهدية  ٢"; ObjectID = "ZY1-MB-EPP"; */
+"ZY1-MB-EPP.text" = "الهدية  ٢";
+
+/* Class = "UILabel"; text = "جولة أحياء"; ObjectID = "Zaf-6P-Vpi"; */
+"Zaf-6P-Vpi.text" = "جولة أحياء";
+
+/* Class = "UILabel"; text = "الارض و الفضاء"; ObjectID = "a3M-ms-jHM"; */
+"a3M-ms-jHM.text" = "الارض و الفضاء";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "a78-LU-tUX"; */
+"a78-LU-tUX.text" = "Sunday";
+
+/* Class = "UILabel"; text = "object 1"; ObjectID = "aYD-u0-BB9"; */
+"aYD-u0-BB9.text" = "object 1";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "ajt-D6-3M5"; */
+"ajt-D6-3M5.text" = "مخلوقات الحية";
+
+/* Class = "UILabel"; text = "خطط لجولتك"; ObjectID = "alO-q6-ljh"; */
+"alO-q6-ljh.text" = "خطط لجولتك";
+
+/* Class = "UILabel"; text = "خطط لجولتك"; ObjectID = "anR-Rm-WHU"; */
+"anR-Rm-WHU.text" = "خطط لجولتك";
+
+/* Class = "UILabel"; text = "Earth and space"; ObjectID = "byF-yZ-isc"; */
+"byF-yZ-isc.text" = "Earth and space";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "c80-Cy-g9Y"; */
+"c80-Cy-g9Y.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "جولة فيزياء"; ObjectID = "cc0-Mz-8pK"; */
+"cc0-Mz-8pK.text" = "جولة فيزياء";
+
+/* Class = "UILabel"; text = "Amazing Technology"; ObjectID = "chz-Uv-gQe"; */
+"chz-Uv-gQe.text" = "Amazing Technology";
+
+/* Class = "UILabel"; text = "Earth and space"; ObjectID = "cuy-0H-aGz"; */
+"cuy-0H-aGz.text" = "Earth and space";
+
+/* Class = "UILabel"; text = "Plan a Tour"; ObjectID = "cy4-WU-eZ6"; */
+"cy4-WU-eZ6.text" = "Plan a Tour";
+
+/* Class = "UILabel"; text = "٤،٧ نجوم"; ObjectID = "d2K-cq-jRr"; */
+"d2K-cq-jRr.text" = "٤،٧ نجوم";
+
+/* Class = "UILabel"; text = "Tech tour"; ObjectID = "dCr-x4-MeP"; */
+"dCr-x4-MeP.text" = "Tech tour";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "dEc-wQ-l5X"; */
+"dEc-wQ-l5X.text" = "Sunday";
+
+/* Class = "UILabel"; text = "استمتع بجولتك"; ObjectID = "dSE-vA-EFI"; */
+"dSE-vA-EFI.text" = "استمتع بجولتك";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat"; ObjectID = "dW6-Us-MRS"; */
+"dW6-Us-MRS.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat";
+
+/* Class = "UILabel"; text = "Plan a Tour"; ObjectID = "df5-Eh-LlX"; */
+"df5-Eh-LlX.text" = "Plan a Tour";
+
+/* Class = "UIButton"; normalTitle = "دورات المياة"; ObjectID = "dmX-ZT-oka"; */
+"dmX-ZT-oka.normalTitle" = "دورات المياة";
+
+/* Class = "UITextField"; placeholder = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"; ObjectID = "dww-Tz-6nv"; */
+"dww-Tz-6nv.placeholder" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation";
+
+/* Class = "UILabel"; text = "الارض و الفضاء"; ObjectID = "eYC-sl-q4Y"; */
+"eYC-sl-q4Y.text" = "الارض و الفضاء";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ebF-wT-ln0"; */
+"ebF-wT-ln0.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Tour Name"; ObjectID = "f9u-Wa-VcI"; */
+"f9u-Wa-VcI.text" = "Tour Name";
+
+/* Class = "UILabel"; text = "Amazing Technology"; ObjectID = "fRE-Td-1qi"; */
+"fRE-Td-1qi.text" = "Amazing Technology";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"; ObjectID = "g8N-h5-HZ0"; */
+"g8N-h5-HZ0.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui";
+
+/* Class = "UILabel"; text = "جولة بحرية"; ObjectID = "gVu-ch-OUQ"; */
+"gVu-ch-OUQ.text" = "جولة بحرية";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat"; ObjectID = "geX-yD-ooO"; */
+"geX-yD-ooO.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat";
+
+/* Class = "UITextField"; placeholder = "name"; ObjectID = "ho9-gi-BqQ"; */
+"ho9-gi-BqQ.placeholder" = "name";
+
+/* Class = "UILabel"; text = "Bio Tour"; ObjectID = "htM-ZE-GkT"; */
+"htM-ZE-GkT.text" = "Bio Tour";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "i7A-gx-u2M"; */
+"i7A-gx-u2M.text" = "لوريم";
+
+/* Class = "UILabel"; text = "متجر الهدايا"; ObjectID = "i9J-eE-wCu"; */
+"i9J-eE-wCu.text" = "متجر الهدايا";
+
+/* Class = "UILabel"; text = "55 S.R"; ObjectID = "iGG-h4-23W"; */
+"iGG-h4-23W.text" = "55 S.R";
+
+/* Class = "UILabel"; text = "السبت"; ObjectID = "ix2-zf-FfH"; */
+"ix2-zf-FfH.text" = "السبت";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "j8S-oQ-PsO"; */
+"j8S-oQ-PsO.text" = "لوريم";
+
+/* Class = "UILabel"; text = "object 1"; ObjectID = "jKP-Xz-u7R"; */
+"jKP-Xz-u7R.text" = "object 1";
+
+/* Class = "UILabel"; text = "الاثنين"; ObjectID = "k44-mt-GPX"; */
+"k44-mt-GPX.text" = "الاثنين";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "kDV-bR-hBS"; */
+"kDV-bR-hBS.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "Plan a Tour"; ObjectID = "kSK-de-EpJ"; */
+"kSK-de-EpJ.text" = "Plan a Tour";
+
+/* Class = "UIButton"; normalTitle = "القاعات العلمية"; ObjectID = "loV-74-0X1"; */
+"loV-74-0X1.normalTitle" = "القاعات العلمية";
+
+/* Class = "UILabel"; text = "phy tour"; ObjectID = "lzr-56-3sr"; */
+"lzr-56-3sr.text" = "phy tour";
+
+/* Class = "UILabel"; text = "gift 2"; ObjectID = "m8U-Nt-eTN"; */
+"m8U-Nt-eTN.text" = "gift 2";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "mT3-2m-Zbv"; */
+"mT3-2m-Zbv.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Day time"; ObjectID = "mhp-Ue-sBB"; */
+"mhp-Ue-sBB.text" = "Day time";
+
+/* Class = "UILabel"; text = "وقت المساء"; ObjectID = "n9P-Iv-EAg"; */
+"n9P-Iv-EAg.text" = "وقت المساء";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "naT-bu-bW4"; */
+"naT-bu-bW4.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "niz-MY-r7m"; */
+"niz-MY-r7m.text" = "Sunday";
+
+/* Class = "UILabel"; text = "الجولات المفضلة"; ObjectID = "oAR-c5-Qsf"; */
+"oAR-c5-Qsf.text" = "الجولات المفضلة";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "ojX-06-kw2"; */
+"ojX-06-kw2.normalTitle" = "عودة";
+
+/* Class = "UIButton"; normalTitle = "تحديد الكل"; ObjectID = "pGJ-V1-rOg"; */
+"pGJ-V1-rOg.normalTitle" = "تحديد الكل";
+
+/* Class = "UILabel"; text = "وقت الصباح"; ObjectID = "pOE-gE-V3j"; */
+"pOE-gE-V3j.text" = "وقت الصباح";
+
+/* Class = "UILabel"; text = "معروضة ١"; ObjectID = "pUu-5r-Vss"; */
+"pUu-5r-Vss.text" = "معروضة ١";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "pf6-5r-bxv"; */
+"pf6-5r-bxv.text" = "مخلوقات الحية";
+
+/* Class = "UILabel"; text = "Night time"; ObjectID = "qLf-Lc-WXt"; */
+"qLf-Lc-WXt.text" = "Night time";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolor "; ObjectID = "qk7-G9-VRJ"; */
+"qk7-G9-VRJ.text" = "Lorem Ipsum Dolor ";
+
+/* Class = "UILabel"; text = "اليوم"; ObjectID = "qlv-Cq-VkT"; */
+"qlv-Cq-VkT.text" = "اليوم";
+
+/* Class = "UIButton"; normalTitle = "أرفع"; ObjectID = "rLU-XZ-QPC"; */
+"rLU-XZ-QPC.normalTitle" = "أرفع";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "rtV-Fn-mBq"; */
+"rtV-Fn-mBq.text" = "مخلوقات الحية";
+
+/* Class = "UILabel"; text = "Gift 1"; ObjectID = "sTf-8T-CIw"; */
+"sTf-8T-CIw.text" = "Gift 1";
+
+/* Class = "UIButton"; normalTitle = "Favorite"; ObjectID = "soX-a9-Gij"; */
+"soX-a9-Gij.normalTitle" = "Favorite";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi "; ObjectID = "t0T-hx-eAZ"; */
+"t0T-hx-eAZ.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ";
+
+/* Class = "UILabel"; text = "Scitech Tours"; ObjectID = "tHt-sm-SYc"; */
+"tHt-sm-SYc.text" = "Scitech Tours";
+
+/* Class = "UILabel"; text = "الاربعاء"; ObjectID = "tr9-fW-oc3"; */
+"tr9-fW-oc3.text" = "الاربعاء";
+
+/* Class = "UILabel"; text = "جولة أحياء"; ObjectID = "tvm-fT-h6E"; */
+"tvm-fT-h6E.text" = "جولة أحياء";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "uDM-cc-XwF"; */
+"uDM-cc-XwF.text" = "Sunday";
+
+/* Class = "UIButton"; normalTitle = "التالي"; ObjectID = "ugS-Yp-WK3"; */
+"ugS-Yp-WK3.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "phy tour"; ObjectID = "ulK-A1-dCw"; */
+"ulK-A1-dCw.text" = "phy tour";
+
+/* Class = "UILabel"; text = "Giftshop"; ObjectID = "vLq-QZ-FSK"; */
+"vLq-QZ-FSK.text" = "Giftshop";
+
+/* Class = "UILabel"; text = "gift 2"; ObjectID = "vsQ-o1-gn8"; */
+"vsQ-o1-gn8.text" = "gift 2";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vvY-9B-Nek"; */
+"vvY-9B-Nek.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Wonders of science"; ObjectID = "w8L-1b-iKj"; */
+"w8L-1b-iKj.text" = "Wonders of science";
+
+/* Class = "UITextField"; placeholder = "وصف"; ObjectID = "wi7-Ge-AJQ"; */
+"wi7-Ge-AJQ.placeholder" = "وصف";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "wuV-Be-mlK"; */
+"wuV-Be-mlK.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "object 3"; ObjectID = "xwE-Iw-jkA"; */
+"xwE-Iw-jkA.text" = "object 3";
+
+/* Class = "UIButton"; normalTitle = "ابد"; ObjectID = "yjD-OY-dtH"; */
+"yjD-OY-dtH.normalTitle" = "ابد";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "yos-VY-93U"; */
+"yos-VY-93U.text" = "Sunday";
+
+/* Class = "UILabel"; text = "مخلوقات الحية"; ObjectID = "ywe-lt-RbS"; */
+"ywe-lt-RbS.text" = "مخلوقات الحية";
+
+/* Class = "UILabel"; text = "جولة بحرية"; ObjectID = "yxL-da-b4v"; */
+"yxL-da-b4v.text" = "جولة بحرية";
+
+/* Class = "UILabel"; text = "الهدية ٣"; ObjectID = "yyb-eQ-NRQ"; */
+"yyb-eQ-NRQ.text" = "الهدية ٣";

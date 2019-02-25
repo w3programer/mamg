@@ -1,0 +1,615 @@
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "03O-gF-y4T"; */
+"03O-gF-y4T.text" = "film 1";
+
+/* Class = "UIButton"; normalTitle = "Scientific Halls"; ObjectID = "0Bv-Vk-YA6"; */
+"0Bv-Vk-YA6.normalTitle" = "Scientific Halls";
+
+/* Class = "UILabel"; text = "End date :"; ObjectID = "0PO-xa-U1Y"; */
+"0PO-xa-U1Y.text" = "End date :";
+
+/* Class = "UILabel"; text = "اللغة"; ObjectID = "0Vn-ww-tKQ"; */
+"0Vn-ww-tKQ.text" = "اللغة";
+
+/* Class = "UILabel"; text = "التذاكر"; ObjectID = "13J-vO-cM9"; */
+"13J-vO-cM9.text" = "التذاكر";
+
+/* Class = "UIButton"; normalTitle = "الاتصال بنا"; ObjectID = "1V3-ay-ud2"; */
+"1V3-ay-ud2.normalTitle" = "الاتصال بنا";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "1cq-gc-IOy"; */
+"1cq-gc-IOy.text" = "film 1";
+
+/* Class = "UILabel"; text = "رسالة المركز"; ObjectID = "1mJ-R9-eTk"; */
+"1mJ-R9-eTk.text" = "رسالة المركز";
+
+/* Class = "UILabel"; text = "الهدية  ٢"; ObjectID = "1vl-Gy-mtx"; */
+"1vl-Gy-mtx.text" = "الهدية  ٢";
+
+/* Class = "UIButton"; normalTitle = "الاهداف"; ObjectID = "2bj-xV-DSn"; */
+"2bj-xV-DSn.normalTitle" = "الاهداف";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"; ObjectID = "2nR-DO-JEl"; */
+"2nR-DO-JEl.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,";
+
+/* Class = "UILabel"; text = "IMAX"; ObjectID = "2tz-8d-JzQ"; */
+"2tz-8d-JzQ.text" = "IMAX";
+
+/* Class = "UILabel"; text = "X Event"; ObjectID = "3ky-OS-7Tn"; */
+"3ky-OS-7Tn.text" = "X Event";
+
+/* Class = "UILabel"; text = "X Tour"; ObjectID = "3xf-to-8oK"; */
+"3xf-to-8oK.text" = "X Tour";
+
+/* Class = "UIButton"; normalTitle = "الاتصال بنا"; ObjectID = "4YA-ey-Gb0"; */
+"4YA-ey-Gb0.normalTitle" = "الاتصال بنا";
+
+/* Class = "UILabel"; text = "تاريخ الانتهاء : "; ObjectID = "4c9-On-xNv"; */
+"4c9-On-xNv.text" = "تاريخ الانتهاء : ";
+
+/* Class = "UITextField"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum"; ObjectID = "4wC-U6-u11"; */
+"4wC-U6-u11.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum";
+
+/* Class = "UISegmentedControl"; 4z1-ab-m7g.segmentTitles[0] = "English"; ObjectID = "4z1-ab-m7g"; */
+"4z1-ab-m7g.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; 4z1-ab-m7g.segmentTitles[1] = "عربي"; ObjectID = "4z1-ab-m7g"; */
+"4z1-ab-m7g.segmentTitles[1]" = "عربي";
+
+/* Class = "UILabel"; text = "الثلاثاء"; ObjectID = "5jP-j5-DQl"; */
+"5jP-j5-DQl.text" = "الثلاثاء";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "5xv-ZV-qo2"; */
+"5xv-ZV-qo2.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "61e-H3-ffx"; */
+"61e-H3-ffx.text" = "Sunday";
+
+/* Class = "UILabel"; text = "The living world"; ObjectID = "69B-8e-6jq"; */
+"69B-8e-6jq.text" = "The living world";
+
+/* Class = "UILabel"; text = "Sunday\nMonday \nTuesday \nWednesday \nThursday "; ObjectID = "7aq-4I-Dz4"; */
+"7aq-4I-Dz4.text" = "Sunday\nMonday \nTuesday \nWednesday \nThursday ";
+
+/* Class = "UILabel"; text = "الهدية ١"; ObjectID = "7c1-r3-SFS"; */
+"7c1-r3-SFS.text" = "الهدية ١";
+
+/* Class = "UILabel"; text = "12/12/2019"; ObjectID = "7hV-vo-saG"; */
+"7hV-vo-saG.text" = "12/12/2019";
+
+/* Class = "UILabel"; text = "التقنية"; ObjectID = "8AS-o5-rFt"; */
+"8AS-o5-rFt.text" = "التقنية";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "8Mk-Ou-kpl"; */
+"8Mk-Ou-kpl.text" = "لوريم";
+
+/* Class = "UIButton"; normalTitle = "عن سايتك"; ObjectID = "94i-vE-a3T"; */
+"94i-vE-a3T.normalTitle" = "عن سايتك";
+
+/* Class = "UILabel"; text = "أهداف المركز"; ObjectID = "9D5-p6-8Zf"; */
+"9D5-p6-8Zf.text" = "أهداف المركز";
+
+/* Class = "UILabel"; text = "غراب العلوم"; ObjectID = "9i3-Lc-nGc"; */
+"9i3-Lc-nGc.text" = "غراب العلوم";
+
+/* Class = "UILabel"; text = "اوقات الزيارة"; ObjectID = "9kN-WE-QRL"; */
+"9kN-WE-QRL.text" = "اوقات الزيارة";
+
+/* Class = "UILabel"; text = "Our Beatiful seas"; ObjectID = "9qo-xY-jHE"; */
+"9qo-xY-jHE.text" = "Our Beatiful seas";
+
+/* Class = "UILabel"; text = "الاحياء"; ObjectID = "AKz-fJ-eQ3"; */
+"AKz-fJ-eQ3.text" = "الاحياء";
+
+/* Class = "UILabel"; text = "الهدية ٣"; ObjectID = "BKs-bC-5Fj"; */
+"BKs-bC-5Fj.text" = "الهدية ٣";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "BWl-Bg-yjo"; */
+"BWl-Bg-yjo.text" = "About Us";
+
+/* Class = "UILabel"; text = "الفئة العمرية : "; ObjectID = "BYJ-rg-61L"; */
+"BYJ-rg-61L.text" = "الفئة العمرية : ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "BvN-qx-ddk"; */
+"BvN-qx-ddk.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Discovery Oasis"; ObjectID = "By3-qS-MoB"; */
+"By3-qS-MoB.text" = "Discovery Oasis";
+
+/* Class = "UILabel"; text = "الاربعاء"; ObjectID = "CDm-02-MOr"; */
+"CDm-02-MOr.text" = "الاربعاء";
+
+/* Class = "UIButton"; normalTitle = "  Find  "; ObjectID = "CSh-L0-rGk"; */
+"CSh-L0-rGk.normalTitle" = "  Find  ";
+
+/* Class = "UITextField"; text = "Lorem ipsum dolor sit amet, consect"; ObjectID = "CW4-BZ-7rF"; */
+"CW4-BZ-7rF.text" = "Lorem ipsum dolor sit amet, consect";
+
+/* Class = "UILabel"; text = "Wonders of Science"; ObjectID = "Cem-pb-TCg"; */
+"Cem-pb-TCg.text" = "Wonders of Science";
+
+/* Class = "UILabel"; text = "الاحياء البحرية"; ObjectID = "D8G-HB-d8Y"; */
+"D8G-HB-d8Y.text" = "الاحياء البحرية";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "Ept-iT-Zqt"; */
+"Ept-iT-Zqt.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Age Group : "; ObjectID = "FdY-HT-Zha"; */
+"FdY-HT-Zha.text" = "Age Group : ";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "FkU-cB-FAM"; */
+"FkU-cB-FAM.text" = "Sunday";
+
+/* Class = "UILabel"; text = "الهدية ١"; ObjectID = "Fx0-po-2rO"; */
+"Fx0-po-2rO.text" = "الهدية ١";
+
+/* Class = "UILabel"; text = "الاعدادات"; ObjectID = "G0u-Ge-pTP"; */
+"G0u-Ge-pTP.text" = "الاعدادات";
+
+/* Class = "UILabel"; text = "Visiting Time"; ObjectID = "G2P-Lc-SAO"; */
+"G2P-Lc-SAO.text" = "Visiting Time";
+
+/* Class = "UILabel"; text = "الفعاليات"; ObjectID = "GS9-mD-ES8"; */
+"GS9-mD-ES8.text" = "الفعاليات";
+
+/* Class = "UILabel"; text = "Ticket price : "; ObjectID = "GzJ-gE-NCg"; */
+"GzJ-gE-NCg.text" = "Ticket price : ";
+
+/* Class = "UILabel"; text = "مركز سلطان بن عبد العزيز للعلوم والتقنية (سايتك) هو أحد مشاريع مؤسسة الأمير سلطان بن عبد العزيز آل سعود الخيرية ولقد جاءت فكرة إنشاء المركز عام 2000م حيث أمر الأمير سلطان بن عبد العزيز (رحمه الله) بإنشاء مركز علمي على غرار أحدث المراكز العلمية في العالم ليخدم فئة الطلبة والباحثين في مجالات العلوم والتقنية وجميع فئات المجتمع. \nنظراً لنظرة الأمير سلطان بن عبد العزيز (رحمه الله) في إهداء المركز إلى جهة تعنى بالأمور العلمية والتقنية فقد أمر بإهداءه إلى جامعة الملك فهد للبترول والمعادن في عام 2006م ، ليصبح بذلك أحد المراكز الفاعله في خدمة وتوعية المجتمع . \nيقع المركز على كورنيش مدينة الخبر على أرض مساحتها 21.700متر مربع و مساحة المبنى 14.100متر مربع صمم و نفذ على غرار أحدث المركز العلمية ويشتمل على ( 7 ) قاعات عرض رئيسية تتناول مختلف العلوم و التقنية ، تضم أكثر من (350) معروضة علمية ، و القبة العلمية \" IMAX \"، المرصد الفلكي، الوحدة التعليمية ، قاعة المؤتمرات، قاعة المعارض المؤقتة، مرافق إدارية وخدمات. يهدف المركز بصورة أساسية إلى تثقيف أفراد المجتمع-خاصة الناشئة - بمبادئ العلوم وتطبيقاتها و شرحها و تبسيطها من خلال عرضها بأسلوب تفاعلي شيق يعتمد على التعليم بالترفيه/ التعليم بالتجربة و المشاهدة."; ObjectID = "HRA-cI-vNS"; */
+"HRA-cI-vNS.text" = "مركز سلطان بن عبد العزيز للعلوم والتقنية (سايتك) هو أحد مشاريع مؤسسة الأمير سلطان بن عبد العزيز آل سعود الخيرية ولقد جاءت فكرة إنشاء المركز عام 2000م حيث أمر الأمير سلطان بن عبد العزيز (رحمه الله) بإنشاء مركز علمي على غرار أحدث المراكز العلمية في العالم ليخدم فئة الطلبة والباحثين في مجالات العلوم والتقنية وجميع فئات المجتمع. \nنظراً لنظرة الأمير سلطان بن عبد العزيز (رحمه الله) في إهداء المركز إلى جهة تعنى بالأمور العلمية والتقنية فقد أمر بإهداءه إلى جامعة الملك فهد للبترول والمعادن في عام 2006م ، ليصبح بذلك أحد المراكز الفاعله في خدمة وتوعية المجتمع . \nيقع المركز على كورنيش مدينة الخبر على أرض مساحتها 21.700متر مربع و مساحة المبنى 14.100متر مربع صمم و نفذ على غرار أحدث المركز العلمية ويشتمل على ( 7 ) قاعات عرض رئيسية تتناول مختلف العلوم و التقنية ، تضم أكثر من (350) معروضة علمية ، و القبة العلمية \" IMAX \"، المرصد الفلكي، الوحدة التعليمية ، قاعة المؤتمرات، قاعة المعارض المؤقتة، مرافق إدارية وخدمات. يهدف المركز بصورة أساسية إلى تثقيف أفراد المجتمع-خاصة الناشئة - بمبادئ العلوم وتطبيقاتها و شرحها و تبسيطها من خلال عرضها بأسلوب تفاعلي شيق يعتمد على التعليم بالترفيه/ التعليم بالتجربة و المشاهدة.";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "ISu-zb-Nud"; */
+"ISu-zb-Nud.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "٥٥ ر س"; ObjectID = "IaP-xv-vSn"; */
+"IaP-xv-vSn.text" = "٥٥ ر س";
+
+/* Class = "UILabel"; text = "القاعات العلمية"; ObjectID = "JF1-WL-Rkw"; */
+"JF1-WL-Rkw.text" = "القاعات العلمية";
+
+/* Class = "UILabel"; text = "٧ صباحا  - ٧ مساء"; ObjectID = "JFZ-cd-THE"; */
+"JFZ-cd-THE.text" = "٧ صباحا  - ٧ مساء";
+
+/* Class = "UIButton"; normalTitle = "الرسالة"; ObjectID = "Jgb-RH-KnR"; */
+"Jgb-RH-KnR.normalTitle" = "الرسالة";
+
+/* Class = "UILabel"; text = "Auto play sound "; ObjectID = "KD2-Zg-Hab"; */
+"KD2-Zg-Hab.text" = "Auto play sound ";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "KZ3-ae-jXE"; */
+"KZ3-ae-jXE.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "LAu-d5-1le"; */
+"LAu-d5-1le.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Free"; ObjectID = "LCn-S1-z40"; */
+"LCn-S1-z40.text" = "Free";
+
+/* Class = "UILabel"; text = "مركز سلطان بن عبد العزيز للعلوم والتقنية (سايتك) هو أحد مشاريع مؤسسة الأمير سلطان بن عبد العزيز آل سعود الخيرية ولقد جاءت فكرة إنشاء المركز عام 2000م حيث أمر الأمير سلطان بن عبد العزيز (رحمه الله) بإنشاء مركز علمي على غرار أحدث المراكز العلمية في العالم ليخدم فئة الطلبة والباحثين في مجالات العلوم والتقنية وجميع فئات المجتمع. \nنظراً لنظرة الأمير سلطان بن عبد العزيز (رحمه الله) في إهداء المركز إلى جهة تعنى بالأمور العلمية والتقنية فقد أمر بإهداءه إلى جامعة الملك فهد للبترول والمعادن في عام 2006م ، ليصبح بذلك أحد المراكز الفاعله في خدمة وتوعية المجتمع . \nيقع المركز على كورنيش مدينة الخبر على أرض مساحتها 21.700متر مربع و مساحة المبنى 14.100متر مربع صمم و نفذ على غرار أحدث المركز العلمية ويشتمل على ( 7 ) قاعات عرض رئيسية تتناول مختلف العلوم و التقنية ، تضم أكثر من (350) معروضة علمية ، و القبة العلمية \" IMAX \"، المرصد الفلكي، الوحدة التعليمية ، قاعة المؤتمرات، قاعة المعارض المؤقتة، مرافق إدارية وخدمات. يهدف المركز بصورة أساسية إلى تثقيف أفراد المجتمع-خاصة الناشئة - بمبادئ العلوم وتطبيقاتها و شرحها و تبسيطها من خلال عرضها بأسلوب تفاعلي شيق يعتمد على التعليم بالترفيه/ التعليم بالتجربة و المشاهدة."; ObjectID = "LHt-CM-van"; */
+"LHt-CM-van.text" = "مركز سلطان بن عبد العزيز للعلوم والتقنية (سايتك) هو أحد مشاريع مؤسسة الأمير سلطان بن عبد العزيز آل سعود الخيرية ولقد جاءت فكرة إنشاء المركز عام 2000م حيث أمر الأمير سلطان بن عبد العزيز (رحمه الله) بإنشاء مركز علمي على غرار أحدث المراكز العلمية في العالم ليخدم فئة الطلبة والباحثين في مجالات العلوم والتقنية وجميع فئات المجتمع. \nنظراً لنظرة الأمير سلطان بن عبد العزيز (رحمه الله) في إهداء المركز إلى جهة تعنى بالأمور العلمية والتقنية فقد أمر بإهداءه إلى جامعة الملك فهد للبترول والمعادن في عام 2006م ، ليصبح بذلك أحد المراكز الفاعله في خدمة وتوعية المجتمع . \nيقع المركز على كورنيش مدينة الخبر على أرض مساحتها 21.700متر مربع و مساحة المبنى 14.100متر مربع صمم و نفذ على غرار أحدث المركز العلمية ويشتمل على ( 7 ) قاعات عرض رئيسية تتناول مختلف العلوم و التقنية ، تضم أكثر من (350) معروضة علمية ، و القبة العلمية \" IMAX \"، المرصد الفلكي، الوحدة التعليمية ، قاعة المؤتمرات، قاعة المعارض المؤقتة، مرافق إدارية وخدمات. يهدف المركز بصورة أساسية إلى تثقيف أفراد المجتمع-خاصة الناشئة - بمبادئ العلوم وتطبيقاتها و شرحها و تبسيطها من خلال عرضها بأسلوب تفاعلي شيق يعتمد على التعليم بالترفيه/ التعليم بالتجربة و المشاهدة.";
+
+/* Class = "UILabel"; text = "all Age Group"; ObjectID = "LMm-aR-1O9"; */
+"LMm-aR-1O9.text" = "all Age Group";
+
+/* Class = "UILabel"; text = "مجانا"; ObjectID = "LSX-Vw-ILZ"; */
+"LSX-Vw-ILZ.text" = "مجانا";
+
+/* Class = "UILabel"; text = "IMAX"; ObjectID = "Lks-EE-utn"; */
+"Lks-EE-utn.text" = "IMAX";
+
+/* Class = "UILabel"; text = "فعالية س"; ObjectID = "MQg-zU-8sy"; */
+"MQg-zU-8sy.text" = "فعالية س";
+
+/* Class = "UILabel"; text = "الهدية  ١"; ObjectID = "MZc-w2-fn8"; */
+"MZc-w2-fn8.text" = "الهدية  ١";
+
+/* Class = "UIButton"; normalTitle = "عن سايتك"; ObjectID = "Nid-2E-Phu"; */
+"Nid-2E-Phu.normalTitle" = "عن سايتك";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "Npd-hs-SnY"; */
+"Npd-hs-SnY.text" = "film 1";
+
+/* Class = "UILabel"; text = "الهدية  ٤"; ObjectID = "NtR-fC-G7m"; */
+"NtR-fC-G7m.text" = "الهدية  ٤";
+
+/* Class = "UILabel"; text = "١٢\\١١\\٢٠١٩"; ObjectID = "O27-Ta-g28"; */
+"O27-Ta-g28.text" = "١٢\\١١\\٢٠١٩";
+
+/* Class = "UIButton"; normalTitle = "الاهداف"; ObjectID = "OeI-3M-eKW"; */
+"OeI-3M-eKW.normalTitle" = "الاهداف";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolor "; ObjectID = "Oha-Ik-FAE"; */
+"Oha-Ik-FAE.text" = "Lorem Ipsum Dolor ";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "OvJ-c1-wob"; */
+"OvJ-c1-wob.text" = "لوريم";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "P6A-MR-mzk"; */
+"P6A-MR-mzk.text" = "لوريم";
+
+/* Class = "UILabel"; text = "X Tour"; ObjectID = "P93-Ta-VhP"; */
+"P93-Ta-VhP.text" = "X Tour";
+
+/* Class = "UILabel"; text = "Time left : 00:00"; ObjectID = "P95-gb-cy3"; */
+"P95-gb-cy3.text" = "Time left : 00:00";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "PC3-6o-gvO"; */
+"PC3-6o-gvO.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "PPi-gg-Mze"; */
+"PPi-gg-Mze.text" = "Sunday";
+
+/* Class = "UISegmentedControl"; PqO-b8-g7q.segmentTitles[0] = "About us"; ObjectID = "PqO-b8-g7q"; */
+"PqO-b8-g7q.segmentTitles[0]" = "About us";
+
+/* Class = "UISegmentedControl"; PqO-b8-g7q.segmentTitles[1] = "Mission"; ObjectID = "PqO-b8-g7q"; */
+"PqO-b8-g7q.segmentTitles[1]" = "Mission";
+
+/* Class = "UISegmentedControl"; PqO-b8-g7q.segmentTitles[2] = "objectives"; ObjectID = "PqO-b8-g7q"; */
+"PqO-b8-g7q.segmentTitles[2]" = "objectives";
+
+/* Class = "UISegmentedControl"; PqO-b8-g7q.segmentTitles[3] = "contact Us"; ObjectID = "PqO-b8-g7q"; */
+"PqO-b8-g7q.segmentTitles[3]" = "contact Us";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolor "; ObjectID = "QAX-7g-BXq"; */
+"QAX-7g-BXq.text" = "Lorem Ipsum Dolor ";
+
+/* Class = "UIButton"; normalTitle = "عن سايتك"; ObjectID = "QCX-Jy-VGN"; */
+"QCX-Jy-VGN.normalTitle" = "عن سايتك";
+
+/* Class = "UILabel"; text = "Object 1"; ObjectID = "QKC-y2-kOm"; */
+"QKC-y2-kOm.text" = "Object 1";
+
+/* Class = "UILabel"; text = "Night time"; ObjectID = "QLO-Li-Sjp"; */
+"QLO-Li-Sjp.text" = "Night time";
+
+/* Class = "UILabel"; text = "اليوم"; ObjectID = "QV5-w5-U3F"; */
+"QV5-w5-U3F.text" = "اليوم";
+
+/* Class = "UILabel"; text = "تعرف علي"; ObjectID = "Qf8-5h-phB"; */
+"Qf8-5h-phB.text" = "تعرف علي";
+
+/* Class = "UIButton"; normalTitle = "الاتصال بنا"; ObjectID = "R5Q-mZ-DWa"; */
+"R5Q-mZ-DWa.normalTitle" = "الاتصال بنا";
+
+/* Class = "UILabel"; text = "نشر مبادئ العلوم و إبداعات التقنية عن طريق عرضها بأساليب حديثة و ممتعة لأفراد المجتمع، و خاصة الناشئة من أجل توسيع آفاقهم العلمية و تشجيعهم على الاهتمام بمجالات العلوم و التقنية، ليصبحوا قادرين على مواكبة المستجدات العلمية و مؤهلين للرقي بأنفسهم و وطنهم إلى مستويات متميزة."; ObjectID = "RLa-u6-xcJ"; */
+"RLa-u6-xcJ.text" = "نشر مبادئ العلوم و إبداعات التقنية عن طريق عرضها بأساليب حديثة و ممتعة لأفراد المجتمع، و خاصة الناشئة من أجل توسيع آفاقهم العلمية و تشجيعهم على الاهتمام بمجالات العلوم و التقنية، ليصبحوا قادرين على مواكبة المستجدات العلمية و مؤهلين للرقي بأنفسهم و وطنهم إلى مستويات متميزة.";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "Rr2-LA-dHj"; */
+"Rr2-LA-dHj.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Earth and space"; ObjectID = "S1h-o7-VM9"; */
+"S1h-o7-VM9.text" = "Earth and space";
+
+/* Class = "UILabel"; text = "العنوان : المملكة العربية السعودية\nالمنطقة : الشرقية - الخبر - الكورنيش\nص.ب. 1914 - الرمز البريدي 31952\nهاتف: 8967777-13-966+\nفاكس: 8967778-13-966+\n info@scitech.edu.sa"; ObjectID = "SjT-YC-k27"; */
+"SjT-YC-k27.text" = "العنوان : المملكة العربية السعودية\nالمنطقة : الشرقية - الخبر - الكورنيش\nص.ب. 1914 - الرمز البريدي 31952\nهاتف: 8967777-13-966+\nفاكس: 8967778-13-966+\n info@scitech.edu.sa";
+
+/* Class = "UILabel"; text = "Get Tickets"; ObjectID = "Sx3-XX-Q1Y"; */
+"Sx3-XX-Q1Y.text" = "Get Tickets";
+
+/* Class = "UILabel"; text = "Visiting Time"; ObjectID = "SxI-hF-9Sa"; */
+"SxI-hF-9Sa.text" = "Visiting Time";
+
+/* Class = "UILabel"; text = "٥٥ ر س"; ObjectID = "TRc-S4-uvh"; */
+"TRc-S4-uvh.text" = "٥٥ ر س";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "TUi-aC-c7h"; */
+"TUi-aC-c7h.text" = "Sunday";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "TVv-Q6-Tax"; */
+"TVv-Q6-Tax.text" = "film 1";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "UJJ-eb-dBv"; */
+"UJJ-eb-dBv.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "Ulw-bN-PrR"; */
+"Ulw-bN-PrR.text" = "film 1";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Upi-uz-ymb"; */
+"Upi-uz-ymb.text" = "Settings";
+
+/* Class = "UILabel"; text = "Scientific Halls"; ObjectID = "VTN-SX-KQ1"; */
+"VTN-SX-KQ1.text" = "Scientific Halls";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "VZp-dU-a1P"; */
+"VZp-dU-a1P.text" = "Sunday";
+
+/* Class = "UILabel"; text = "عن سايتك"; ObjectID = "Vs8-X3-RX4"; */
+"Vs8-X3-RX4.text" = "عن سايتك";
+
+/* Class = "UILabel"; text = "الارض والفضاء"; ObjectID = "W8L-vY-xRj"; */
+"W8L-vY-xRj.text" = "الارض والفضاء";
+
+/* Class = "UIButton"; normalTitle = "الاتصال بنا"; ObjectID = "WZB-iJ-vG6"; */
+"WZB-iJ-vG6.normalTitle" = "الاتصال بنا";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "X26-pd-SEq"; */
+"X26-pd-SEq.text" = "film 1";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat"; ObjectID = "XdE-m5-ado"; */
+"XdE-m5-ado.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat";
+
+/* Class = "UILabel"; text = "Giftshop"; ObjectID = "XuR-Eg-E8C"; */
+"XuR-Eg-E8C.text" = "Giftshop";
+
+/* Class = "UILabel"; text = "متجر الهدايا"; ObjectID = "Xzb-Qh-Too"; */
+"Xzb-Qh-Too.text" = "متجر الهدايا";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "Y8G-8p-bkQ"; */
+"Y8G-8p-bkQ.text" = "film 1";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "YC3-Mj-xUD"; */
+"YC3-Mj-xUD.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Event"; ObjectID = "Z2Q-90-e5z"; */
+"Z2Q-90-e5z.text" = "Event";
+
+/* Class = "UILabel"; text = "الوقت : "; ObjectID = "Z7h-Jk-LWY"; */
+"Z7h-Jk-LWY.text" = "الوقت : ";
+
+/* Class = "UILabel"; text = "الاتصال بنا"; ObjectID = "ZAs-G5-TGz"; */
+"ZAs-G5-TGz.text" = "الاتصال بنا";
+
+/* Class = "UILabel"; text = "الاثنين"; ObjectID = "ZdI-MV-0QP"; */
+"ZdI-MV-0QP.text" = "الاثنين";
+
+/* Class = "UILabel"; text = "Tour"; ObjectID = "ZkI-xj-pnk"; */
+"ZkI-xj-pnk.text" = "Tour";
+
+/* Class = "UILabel"; text = "الخميس"; ObjectID = "ZuM-Zt-RBT"; */
+"ZuM-Zt-RBT.text" = "الخميس";
+
+/* Class = "UILabel"; text = "Time left : 00:00"; ObjectID = "aIH-1r-gNO"; */
+"aIH-1r-gNO.text" = "Time left : 00:00";
+
+/* Class = "UILabel"; text = "تاريخ البداية : "; ObjectID = "aM3-BL-iZR"; */
+"aM3-BL-iZR.text" = "تاريخ البداية : ";
+
+/* Class = "UILabel"; text = "فالية س"; ObjectID = "aZr-q0-OJc"; */
+"aZr-q0-OJc.text" = "فالية س";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "aal-QD-eTX"; */
+"aal-QD-eTX.text" = "film 1";
+
+/* Class = "UILabel"; text = "Start date :"; ObjectID = "ae6-rE-naG"; */
+"ae6-rE-naG.text" = "Start date :";
+
+/* Class = "UILabel"; text = "الاحياء البحرية"; ObjectID = "anJ-Ck-vvq"; */
+"anJ-Ck-vvq.text" = "الاحياء البحرية";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "b1a-O1-Gdk"; */
+"b1a-O1-Gdk.text" = "لوريم";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "bGu-dA-3gb"; */
+"bGu-dA-3gb.text" = "film 1";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "bHA-OQ-q1t"; */
+"bHA-OQ-q1t.text" = "لوريم";
+
+/* Class = "UIBarButtonItem"; title = "back"; ObjectID = "bQi-GP-LhD"; */
+"bQi-GP-LhD.title" = "back";
+
+/* Class = "UILabel"; text = "Amaizng Technology"; ObjectID = "bco-9x-Stj"; */
+"bco-9x-Stj.text" = "Amaizng Technology";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt"; ObjectID = "bj9-Bx-NhA"; */
+"bj9-Bx-NhA.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt";
+
+/* Class = "UILabel"; text = "نبذة عن سايتك"; ObjectID = "bjJ-6d-8Ov"; */
+"bjJ-6d-8Ov.text" = "نبذة عن سايتك";
+
+/* Class = "UILabel"; text = "القبة العلمية"; ObjectID = "blP-VA-aG4"; */
+"blP-VA-aG4.text" = "القبة العلمية";
+
+/* Class = "UILabel"; text = "Our Beatiful seas"; ObjectID = "bpD-dO-S3d"; */
+"bpD-dO-S3d.text" = "Our Beatiful seas";
+
+/* Class = "UISegmentedControl"; bre-Zl-JPK.segmentTitles[0] = "English"; ObjectID = "bre-Zl-JPK"; */
+"bre-Zl-JPK.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; bre-Zl-JPK.segmentTitles[1] = "عربي"; ObjectID = "bre-Zl-JPK"; */
+"bre-Zl-JPK.segmentTitles[1]" = "عربي";
+
+/* Class = "UILabel"; text = "واحة الاكتشاف"; ObjectID = "bwe-u7-tqM"; */
+"bwe-u7-tqM.text" = "واحة الاكتشاف";
+
+/* Class = "UILabel"; text = "Day"; ObjectID = "cdO-8p-hvw"; */
+"cdO-8p-hvw.text" = "Day";
+
+/* Class = "UILabel"; text = "وقت المساء"; ObjectID = "d8f-nl-O3F"; */
+"d8f-nl-O3F.text" = "وقت المساء";
+
+/* Class = "UILabel"; text = "Discovery Oasis"; ObjectID = "dBq-Fc-21I"; */
+"dBq-Fc-21I.text" = "Discovery Oasis";
+
+/* Class = "UILabel"; text = "واحة الاكتشاف"; ObjectID = "dSl-Ap-Iqj"; */
+"dSl-Ap-Iqj.text" = "واحة الاكتشاف";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "dov-sh-9WN"; */
+"dov-sh-9WN.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "dsh-os-bhd"; */
+"dsh-os-bhd.text" = "Settings";
+
+/* Class = "UILabel"; text = "الجولات"; ObjectID = "dya-Nu-VaN"; */
+"dya-Nu-VaN.text" = "الجولات";
+
+/* Class = "UILabel"; text = "Earth and space"; ObjectID = "eYg-e5-JPF"; */
+"eYg-e5-JPF.text" = "Earth and space";
+
+/* Class = "UILabel"; text = "القبة العلمية"; ObjectID = "eaL-Rj-BKT"; */
+"eaL-Rj-BKT.text" = "القبة العلمية";
+
+/* Class = "UILabel"; text = "الاحد"; ObjectID = "ekq-k8-UGc"; */
+"ekq-k8-UGc.text" = "الاحد";
+
+/* Class = "UIButton"; normalTitle = "WC"; ObjectID = "evD-le-oud"; */
+"evD-le-oud.normalTitle" = "WC";
+
+/* Class = "UILabel"; text = "غراب العلوم"; ObjectID = "evD-vX-FRw"; */
+"evD-vX-FRw.text" = "غراب العلوم";
+
+/* Class = "UILabel"; text = "31/12/2019"; ObjectID = "fUe-Tf-fhw"; */
+"fUe-Tf-fhw.text" = "31/12/2019";
+
+/* Class = "UILabel"; text = "Wonders of Science"; ObjectID = "feb-Cg-Cjc"; */
+"feb-Cg-Cjc.text" = "Wonders of Science";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "fjL-YH-YEW"; */
+"fjL-YH-YEW.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "gIH-IU-nzh"; */
+"gIH-IU-nzh.text" = "Sunday";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "gLH-37-Yn5"; */
+"gLH-37-Yn5.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "5 am -6 pm"; ObjectID = "gcA-jf-YYz"; */
+"gcA-jf-YYz.text" = "5 am -6 pm";
+
+/* Class = "UILabel"; text = "سعر التذكرة : "; ObjectID = "gk4-7O-TwS"; */
+"gk4-7O-TwS.text" = "سعر التذكرة : ";
+
+/* Class = "UILabel"; text = " توسـيع الأفـق العـلمي والثقافي لزوارالمركز في مجـالات العلوم والتقنية.\n تبسيط الأفكار والموضوعـات العلمية وجعلها شيقة وممتعة للجميع.\n تنميـة حـب الإسـتطـلاع والـقـراءة والإستكشاف في المجالات العلمية.\n مسـاعدة الزوار على تطوير أسـالـيب التفكير والتحليـل العـلمي وجعلهـا أمرا طبيعيا في حياتهم.\n تنميـة إدراك وتـقـديـر الــزوار لـــدور العلوم والتقنية في حياتهم اليومية.\n ربـط بـرامـج ومعـروضـات المركــز بمناهج التعليم في المملكة.\n تنظيم معارض مؤقتة في مجالات العلوم والتقنية مثل الكتب العلمية والحاسب الآلي والإتصالات وغيرها.\n إيصال رســـالة المـركـز إلى ســكـان المناطق البعيدة نسبيا."; ObjectID = "hBa-bw-dlZ"; */
+"hBa-bw-dlZ.text" = " توسـيع الأفـق العـلمي والثقافي لزوارالمركز في مجـالات العلوم والتقنية.\n تبسيط الأفكار والموضوعـات العلمية وجعلها شيقة وممتعة للجميع.\n تنميـة حـب الإسـتطـلاع والـقـراءة والإستكشاف في المجالات العلمية.\n مسـاعدة الزوار على تطوير أسـالـيب التفكير والتحليـل العـلمي وجعلهـا أمرا طبيعيا في حياتهم.\n تنميـة إدراك وتـقـديـر الــزوار لـــدور العلوم والتقنية في حياتهم اليومية.\n ربـط بـرامـج ومعـروضـات المركــز بمناهج التعليم في المملكة.\n تنظيم معارض مؤقتة في مجالات العلوم والتقنية مثل الكتب العلمية والحاسب الآلي والإتصالات وغيرها.\n إيصال رســـالة المـركـز إلى ســكـان المناطق البعيدة نسبيا.";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "hSF-9V-5aI"; */
+"hSF-9V-5aI.text" = "لوريم";
+
+/* Class = "UILabel"; text = "وقت الصباح"; ObjectID = "hTw-fS-MNJ"; */
+"hTw-fS-MNJ.text" = "وقت الصباح";
+
+/* Class = "UIButton"; normalTitle = "الاهداف"; ObjectID = "ihY-DX-yyK"; */
+"ihY-DX-yyK.normalTitle" = "الاهداف";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "isa-eR-rxQ"; */
+"isa-eR-rxQ.text" = "Sunday";
+
+/* Class = "UIButton"; normalTitle = "Mosque"; ObjectID = "jD9-1J-NkG"; */
+"jD9-1J-NkG.normalTitle" = "Mosque";
+
+/* Class = "UIButton"; normalTitle = "الاهداف"; ObjectID = "jG4-vA-IpZ"; */
+"jG4-vA-IpZ.normalTitle" = "الاهداف";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "jf2-8O-May"; */
+"jf2-8O-May.text" = "Events";
+
+/* Class = "UIButton"; normalTitle = "الرسالة"; ObjectID = "jh3-rD-Non"; */
+"jh3-rD-Non.normalTitle" = "الرسالة";
+
+/* Class = "UILabel"; text = "تشغيل تلقائي للصوت"; ObjectID = "jqY-xc-fvH"; */
+"jqY-xc-fvH.text" = "تشغيل تلقائي للصوت";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "jrg-KI-g49"; */
+"jrg-KI-g49.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "k9w-L1-yLX"; */
+"k9w-L1-yLX.text" = "Language";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "kNQ-8e-DxN"; */
+"kNQ-8e-DxN.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Visiting Time"; ObjectID = "kP6-KP-CUX"; */
+"kP6-KP-CUX.text" = "Visiting Time";
+
+/* Class = "UILabel"; text = "Time :"; ObjectID = "kaN-5d-WPH"; */
+"kaN-5d-WPH.text" = "Time :";
+
+/* Class = "UILabel"; text = "التقنية"; ObjectID = "lMH-xM-4dE"; */
+"lMH-xM-4dE.text" = "التقنية";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "lfz-6U-c0a"; */
+"lfz-6U-c0a.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"; ObjectID = "m6V-zV-F0W"; */
+"m6V-zV-F0W.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "mTK-aK-W2u"; */
+"mTK-aK-W2u.text" = "Sunday";
+
+/* Class = "UILabel"; text = "8:45 pm\n8:45 pm\n8:45 pm\n8:45 pm\n8:45 pm\n8:45 pm"; ObjectID = "mhF-MA-Djc"; */
+"mhF-MA-Djc.text" = "8:45 pm\n8:45 pm\n8:45 pm\n8:45 pm\n8:45 pm\n8:45 pm";
+
+/* Class = "UIButton"; normalTitle = "عن سايتك"; ObjectID = "nPI-6a-E1R"; */
+"nPI-6a-E1R.normalTitle" = "عن سايتك";
+
+/* Class = "UILabel"; text = "Look For"; ObjectID = "neX-ft-TPf"; */
+"neX-ft-TPf.text" = "Look For";
+
+/* Class = "UILabel"; text = "متجر الهدايا"; ObjectID = "nsC-Tz-rcj"; */
+"nsC-Tz-rcj.text" = "متجر الهدايا";
+
+/* Class = "UILabel"; text = "الاعدادات"; ObjectID = "nv8-T2-KTL"; */
+"nv8-T2-KTL.text" = "الاعدادات";
+
+/* Class = "UILabel"; text = "لايوجد "; ObjectID = "oVz-af-E73"; */
+"oVz-af-E73.text" = "لايوجد ";
+
+/* Class = "UIButton"; normalTitle = "عودة"; ObjectID = "og1-4w-1Zo"; */
+"og1-4w-1Zo.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "film 1"; ObjectID = "pnP-ko-drn"; */
+"pnP-ko-drn.text" = "film 1";
+
+/* Class = "UILabel"; text = "الفعاليات"; ObjectID = "q2A-Rf-rsL"; */
+"q2A-Rf-rsL.text" = "الفعاليات";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "qlz-eN-Di0"; */
+"qlz-eN-Di0.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "raZ-XG-ulU"; */
+"raZ-XG-ulU.text" = "Sunday";
+
+/* Class = "UILabel"; text = "٣٠\\١١\\٢٠١٩"; ObjectID = "sza-lc-vDe"; */
+"sza-lc-vDe.text" = "٣٠\\١١\\٢٠١٩";
+
+/* Class = "UILabel"; text = "Identify me"; ObjectID = "t8j-Ws-1K3"; */
+"t8j-Ws-1K3.text" = "Identify me";
+
+/* Class = "UIButton"; normalTitle = "الرسالة"; ObjectID = "tdd-Ex-KfD"; */
+"tdd-Ex-KfD.normalTitle" = "الرسالة";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "tjE-xU-H55"; */
+"tjE-xU-H55.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "IMAX"; ObjectID = "tka-OQ-yw4"; */
+"tka-OQ-yw4.normalTitle" = "IMAX";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "tuh-4V-HQK"; */
+"tuh-4V-HQK.text" = "لوريم";
+
+/* Class = "UIButton"; normalTitle = "الرسالة"; ObjectID = "uBg-Tq-igU"; */
+"uBg-Tq-igU.normalTitle" = "الرسالة";
+
+/* Class = "UILabel"; text = "Amaizng Technology"; ObjectID = "uNC-H6-gVM"; */
+"uNC-H6-gVM.text" = "Amaizng Technology";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "vHC-XH-ibu"; */
+"vHC-XH-ibu.text" = "Sunday";
+
+/* Class = "UILabel"; text = "القاعات العلمية"; ObjectID = "vuA-7g-w4S"; */
+"vuA-7g-w4S.text" = "القاعات العلمية";
+
+/* Class = "UILabel"; text = "لوريم"; ObjectID = "xHs-Nz-rzl"; */
+"xHs-Nz-rzl.text" = "لوريم";
+
+/* Class = "UILabel"; text = "Day time"; ObjectID = "xdq-vF-RsI"; */
+"xdq-vF-RsI.text" = "Day time";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat"; ObjectID = "xl9-hk-Oiv"; */
+"xl9-hk-Oiv.text" = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat";
+
+/* Class = "UILabel"; text = "X event"; ObjectID = "xw5-2E-Xwd"; */
+"xw5-2E-Xwd.text" = "X event";
+
+/* Class = "UILabel"; text = "A magical journey through the heart of the wildest place on earth from its jungles to its deserts.Traveling above the plains, cascading along rivers. Also, explain how some animals live like flamingos, gorillas, and elephants"; ObjectID = "yA5-xe-13c"; */
+"yA5-xe-13c.text" = "A magical journey through the heart of the wildest place on earth from its jungles to its deserts.Traveling above the plains, cascading along rivers. Also, explain how some animals live like flamingos, gorillas, and elephants";
+
+/* Class = "UILabel"; text = "4.3 stars"; ObjectID = "z5m-kh-1PD"; */
+"z5m-kh-1PD.text" = "4.3 stars";
+
+/* Class = "UILabel"; text = "السبت"; ObjectID = "zKN-3e-1HD"; */
+"zKN-3e-1HD.text" = "السبت";
+
+/* Class = "UIBarButtonItem"; title = "back"; ObjectID = "zo7-om-LQu"; */
+"zo7-om-LQu.title" = "back";
