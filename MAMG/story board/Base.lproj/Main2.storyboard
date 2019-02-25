@@ -813,12 +813,6 @@
                                     <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gifts" translatesAutoresizingMaskIntoConstraints="NO" id="rop-5J-BPW">
                                         <rect key="frame" x="143" y="61" width="128" height="128"/>
                                     </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="متجر الهدايا" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i9J-eE-wCu">
-                                        <rect key="frame" x="70" y="205" width="274" height="45"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="38"/>
-                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sku-lz-bjl">
                                         <rect key="frame" x="8" y="28" width="32" height="32"/>
                                         <constraints>
@@ -830,6 +824,12 @@
                                             <segue destination="l3k-Sk-63g" kind="show" id="eWo-2H-I85"/>
                                         </connections>
                                     </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="متجر الهدايا" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i9J-eE-wCu">
+                                        <rect key="frame" x="70" y="205" width="274" height="45"/>
+                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="38"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
                                 </subviews>
                                 <color key="backgroundColor" red="0.60784313729999995" green="0.34901960780000002" blue="0.71372549019999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
@@ -871,142 +871,81 @@
                                     <constraint firstAttribute="height" constant="80" id="SUD-qV-W1K"/>
                                 </constraints>
                             </view>
-                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="sHQ-X1-lCR">
-                                <rect key="frame" x="209" y="258" width="150" height="150"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="27s-JH-kxM">
-                                        <rect key="frame" x="25" y="25" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="100" id="JGp-Og-fDc"/>
-                                            <constraint firstAttribute="width" constant="100" id="nbk-dT-VSE"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="الهدية  ١" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rev-WO-TkX">
-                                        <rect key="frame" x="18.5" y="126" width="112" height="24"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="20"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GHw-t9-S7r">
-                                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="vUE-Rq-dAJ">
+                                <rect key="frame" x="0.0" y="250" width="414" height="532"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="3Eb-Eq-ljw">
+                                    <size key="itemSize" width="167" height="188"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="giftCell" id="eal-Uw-dMD" customClass="giftCollectionViewCell" customModule="MAMG" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="167" height="188"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                                            <rect key="frame" x="0.0" y="0.0" width="167" height="188"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="i8N-pV-YTW">
+                                                    <rect key="frame" x="0.0" y="0.0" width="167" height="127"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="127" id="LqN-1g-RUT"/>
+                                                    </constraints>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="اسم الهدية" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mbh-5h-CKc">
+                                                    <rect key="frame" x="8" y="135" width="151" height="53"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </view>
+                                        <constraints>
+                                            <constraint firstAttribute="trailing" secondItem="i8N-pV-YTW" secondAttribute="trailing" id="932-S1-tjj"/>
+                                            <constraint firstAttribute="trailing" secondItem="mbh-5h-CKc" secondAttribute="trailing" constant="8" id="EHb-vP-hn6"/>
+                                            <constraint firstItem="mbh-5h-CKc" firstAttribute="leading" secondItem="eal-Uw-dMD" secondAttribute="leading" constant="8" id="IAU-6u-ld5"/>
+                                            <constraint firstItem="i8N-pV-YTW" firstAttribute="top" secondItem="eal-Uw-dMD" secondAttribute="top" id="RvC-LD-Dfs"/>
+                                            <constraint firstAttribute="bottom" secondItem="mbh-5h-CKc" secondAttribute="bottom" id="gPJ-GC-TmQ"/>
+                                            <constraint firstItem="mbh-5h-CKc" firstAttribute="top" secondItem="i8N-pV-YTW" secondAttribute="bottom" constant="8" id="hjF-gV-nZd"/>
+                                            <constraint firstItem="i8N-pV-YTW" firstAttribute="leading" secondItem="eal-Uw-dMD" secondAttribute="leading" id="oCc-oO-KJ1"/>
+                                        </constraints>
                                         <connections>
-                                            <action selector="giftbutton:" destination="w8f-Yv-Tdq" eventType="touchUpInside" id="1XD-C7-5jo"/>
+                                            <outlet property="giftImage" destination="i8N-pV-YTW" id="Gnb-BZ-Hqp"/>
+                                            <outlet property="gifttitle" destination="mbh-5h-CKc" id="zLS-Ln-Odk"/>
                                         </connections>
-                                    </button>
-                                </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstItem="Rev-WO-TkX" firstAttribute="centerX" secondItem="sHQ-X1-lCR" secondAttribute="centerX" id="LS5-wO-h1j"/>
-                                    <constraint firstItem="27s-JH-kxM" firstAttribute="centerX" secondItem="sHQ-X1-lCR" secondAttribute="centerX" id="Vqq-h1-pSy"/>
-                                    <constraint firstAttribute="bottom" secondItem="Rev-WO-TkX" secondAttribute="bottom" id="msZ-PJ-2hg"/>
-                                    <constraint firstItem="27s-JH-kxM" firstAttribute="centerY" secondItem="sHQ-X1-lCR" secondAttribute="centerY" id="qmr-UX-GsN"/>
-                                </constraints>
-                            </view>
-                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="bUf-C8-cXf">
-                                <rect key="frame" x="16" y="258" width="150" height="150"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="N6g-QN-mMe">
-                                        <rect key="frame" x="25" y="25" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="100" id="Nnf-mK-Xgq"/>
-                                            <constraint firstAttribute="height" constant="100" id="Z4r-7x-Q3u"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="الهدية  ٢" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZY1-MB-EPP">
-                                        <rect key="frame" x="18.5" y="126" width="112" height="24"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="20"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="M7l-Jk-TyZ">
-                                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    </button>
-                                </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstItem="N6g-QN-mMe" firstAttribute="centerX" secondItem="bUf-C8-cXf" secondAttribute="centerX" id="Hjr-Iv-jPm"/>
-                                    <constraint firstAttribute="bottom" secondItem="ZY1-MB-EPP" secondAttribute="bottom" id="Nmx-GE-Z9B"/>
-                                    <constraint firstItem="ZY1-MB-EPP" firstAttribute="centerX" secondItem="bUf-C8-cXf" secondAttribute="centerX" id="dCQ-6u-gUE"/>
-                                    <constraint firstItem="N6g-QN-mMe" firstAttribute="centerY" secondItem="bUf-C8-cXf" secondAttribute="centerY" id="uJr-5T-6Bf"/>
-                                </constraints>
-                            </view>
-                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UWG-Wr-EvK">
-                                <rect key="frame" x="209" y="429" width="150" height="150"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="oL2-eB-DCu">
-                                        <rect key="frame" x="25" y="25" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="100" id="tQ4-Ks-aoy"/>
-                                            <constraint firstAttribute="height" constant="100" id="wi7-2K-HuL"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="الهدية ٣" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yyb-eQ-NRQ">
-                                        <rect key="frame" x="18.5" y="126" width="112" height="24"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="20"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="z8A-km-P9B">
-                                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    </button>
-                                </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstItem="oL2-eB-DCu" firstAttribute="centerX" secondItem="UWG-Wr-EvK" secondAttribute="centerX" id="In6-nz-HoV"/>
-                                    <constraint firstItem="oL2-eB-DCu" firstAttribute="centerY" secondItem="UWG-Wr-EvK" secondAttribute="centerY" id="JfO-5T-z9F"/>
-                                    <constraint firstAttribute="bottom" secondItem="yyb-eQ-NRQ" secondAttribute="bottom" id="XFh-Wc-D49"/>
-                                    <constraint firstItem="yyb-eQ-NRQ" firstAttribute="centerX" secondItem="UWG-Wr-EvK" secondAttribute="centerX" id="jae-Ri-ziG"/>
-                                </constraints>
-                            </view>
-                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="o5x-bO-6V8">
-                                <rect key="frame" x="16" y="429" width="150" height="150"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="que-yK-DhQ">
-                                        <rect key="frame" x="25" y="25" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="100" id="2os-bO-R2G"/>
-                                            <constraint firstAttribute="height" constant="100" id="lTo-Ae-dCl"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="الهدية  ٤" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QhE-xZ-PqX">
-                                        <rect key="frame" x="18.5" y="126" width="112" height="24"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="20"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n1C-hx-HgO">
-                                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    </button>
-                                </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstAttribute="bottom" secondItem="QhE-xZ-PqX" secondAttribute="bottom" id="F55-ZT-MoO"/>
-                                    <constraint firstItem="que-yK-DhQ" firstAttribute="centerY" secondItem="o5x-bO-6V8" secondAttribute="centerY" id="HBt-4F-Soz"/>
-                                    <constraint firstItem="que-yK-DhQ" firstAttribute="centerX" secondItem="o5x-bO-6V8" secondAttribute="centerX" id="lLb-Xf-70l"/>
-                                    <constraint firstItem="QhE-xZ-PqX" firstAttribute="centerX" secondItem="o5x-bO-6V8" secondAttribute="centerX" id="oly-dN-2VE"/>
-                                </constraints>
-                            </view>
+                                    </collectionViewCell>
+                                </cells>
+                                <connections>
+                                    <outlet property="dataSource" destination="w8f-Yv-Tdq" id="sY7-2l-j43"/>
+                                    <outlet property="delegate" destination="w8f-Yv-Tdq" id="GJ7-Lv-O7a"/>
+                                </connections>
+                            </collectionView>
                         </subviews>
                         <color key="backgroundColor" red="0.79215686269999996" green="0.81176470590000005" blue="0.82352941180000006" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="k7g-vP-sym" firstAttribute="trailing" secondItem="YvN-5Z-FIG" secondAttribute="trailing" id="671-q7-yJs"/>
                             <constraint firstItem="OAY-f1-1nK" firstAttribute="trailing" secondItem="k7g-vP-sym" secondAttribute="trailing" id="7ie-qJ-Byd"/>
+                            <constraint firstItem="vUE-Rq-dAJ" firstAttribute="trailing" secondItem="k7g-vP-sym" secondAttribute="trailing" id="IRE-8T-4dJ"/>
                             <constraint firstItem="YvN-5Z-FIG" firstAttribute="leading" secondItem="k7g-vP-sym" secondAttribute="leading" id="JD6-uJ-oFt"/>
                             <constraint firstItem="OAY-f1-1nK" firstAttribute="leading" secondItem="k7g-vP-sym" secondAttribute="leading" id="K9N-wh-yHW"/>
                             <constraint firstItem="OAY-f1-1nK" firstAttribute="bottom" secondItem="k7g-vP-sym" secondAttribute="bottom" id="PLU-uu-1ir"/>
+                            <constraint firstItem="vUE-Rq-dAJ" firstAttribute="top" secondItem="YvN-5Z-FIG" secondAttribute="bottom" id="XJe-S9-yzk"/>
+                            <constraint firstItem="vUE-Rq-dAJ" firstAttribute="leading" secondItem="k7g-vP-sym" secondAttribute="leading" id="cwi-Fu-eT6"/>
+                            <constraint firstItem="OAY-f1-1nK" firstAttribute="top" secondItem="vUE-Rq-dAJ" secondAttribute="bottom" id="qPk-wK-wTa"/>
                             <constraint firstItem="YvN-5Z-FIG" firstAttribute="top" secondItem="j0W-rX-HXo" secondAttribute="top" id="r1L-bE-bGV"/>
                             <constraint firstItem="k7g-vP-sym" firstAttribute="trailing" secondItem="YvN-5Z-FIG" secondAttribute="trailing" id="tiL-1K-G5R"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="k7g-vP-sym"/>
                     </view>
+                    <connections>
+                        <outlet property="giftcollection" destination="vUE-Rq-dAJ" id="IEa-Q9-9mp"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kF7-Eu-Fgr" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5324" y="2698"/>
+            <point key="canvasLocation" x="5323.188405797102" y="2697.3214285714284"/>
         </scene>
         <!--Wishlist View Controller-->
         <scene sceneID="fMv-gv-SAa">
@@ -1080,76 +1019,58 @@
                                     <constraint firstAttribute="height" constant="80" id="qlB-B5-w4g"/>
                                 </constraints>
                             </view>
-                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8Kn-Pu-oWp">
-                                <rect key="frame" x="209" y="258" width="150" height="150"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="ejW-O0-2gF">
-                                        <rect key="frame" x="25" y="25" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="100" id="2ga-e6-0im"/>
-                                            <constraint firstAttribute="width" constant="100" id="MtV-XB-VhW"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="الهدية  ١" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7l8-5h-svc">
-                                        <rect key="frame" x="18.5" y="126" width="112" height="24"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="20"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="92t-sd-xGc">
-                                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <connections>
-                                            <action selector="wishlist:" destination="l3k-Sk-63g" eventType="touchUpInside" id="Abd-rw-MBM"/>
-                                            <segue destination="IGz-sY-3aa" kind="show" id="sHh-U2-tT9"/>
-                                        </connections>
-                                    </button>
-                                </subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="Q5m-Qx-Hkm">
+                                <rect key="frame" x="0.0" y="250" width="414" height="532"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstItem="7l8-5h-svc" firstAttribute="centerX" secondItem="8Kn-Pu-oWp" secondAttribute="centerX" id="7bf-rE-923"/>
-                                    <constraint firstAttribute="bottom" secondItem="7l8-5h-svc" secondAttribute="bottom" id="ANp-eD-i8Z"/>
-                                    <constraint firstItem="ejW-O0-2gF" firstAttribute="centerY" secondItem="8Kn-Pu-oWp" secondAttribute="centerY" id="eCO-v3-c0T"/>
-                                    <constraint firstItem="ejW-O0-2gF" firstAttribute="centerX" secondItem="8Kn-Pu-oWp" secondAttribute="centerX" id="kKj-Bh-5Tz"/>
-                                </constraints>
-                            </view>
-                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ueD-Ho-cxk">
-                                <rect key="frame" x="16" y="258" width="150" height="150"/>
-                                <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="anK-FS-s66">
-                                        <rect key="frame" x="25" y="25" width="100" height="100"/>
-                                        <constraints>
-                                            <constraint firstAttribute="height" constant="100" id="5sd-Te-Z7W"/>
-                                            <constraint firstAttribute="width" constant="100" id="Qck-A8-5Tl"/>
-                                        </constraints>
-                                    </imageView>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="الهدية  ٢" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LJc-rt-FZs">
-                                        <rect key="frame" x="18.5" y="126" width="112" height="24"/>
-                                        <fontDescription key="fontDescription" name="Menlo-Bold" family="Menlo" pointSize="20"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Tnu-lr-4lI">
-                                        <rect key="frame" x="0.0" y="0.0" width="150" height="150"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="5Pv-HD-26o">
+                                    <size key="itemSize" width="190" height="167"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="4sq-Gv-CE0">
+                                        <rect key="frame" x="0.0" y="0.0" width="190" height="167"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    </button>
-                                </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstAttribute="bottom" secondItem="LJc-rt-FZs" secondAttribute="bottom" id="1u7-bQ-Fgl"/>
-                                    <constraint firstItem="anK-FS-s66" firstAttribute="centerY" secondItem="ueD-Ho-cxk" secondAttribute="centerY" id="Csg-wS-FO9"/>
-                                    <constraint firstItem="LJc-rt-FZs" firstAttribute="centerX" secondItem="ueD-Ho-cxk" secondAttribute="centerX" id="jdo-TG-Gb0"/>
-                                    <constraint firstItem="anK-FS-s66" firstAttribute="centerX" secondItem="ueD-Ho-cxk" secondAttribute="centerX" id="sv2-7c-4QQ"/>
-                                </constraints>
-                            </view>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                                            <rect key="frame" x="0.0" y="0.0" width="190" height="167"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gift" translatesAutoresizingMaskIntoConstraints="NO" id="aw0-y8-a5A">
+                                                    <rect key="frame" x="20" y="32" width="150" height="88"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="88" id="Ket-Rt-ujk"/>
+                                                    </constraints>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="هدية رقم ١" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SmG-xO-9kd">
+                                                    <rect key="frame" x="20" y="126" width="150" height="29"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                        </view>
+                                        <constraints>
+                                            <constraint firstItem="aw0-y8-a5A" firstAttribute="leading" secondItem="4sq-Gv-CE0" secondAttribute="leadingMargin" constant="12" id="Isn-0n-TS2"/>
+                                            <constraint firstItem="aw0-y8-a5A" firstAttribute="top" secondItem="4sq-Gv-CE0" secondAttribute="topMargin" constant="-20" id="jub-BH-Il9"/>
+                                            <constraint firstAttribute="trailingMargin" secondItem="aw0-y8-a5A" secondAttribute="trailing" constant="12" id="ocB-Sc-DGT"/>
+                                        </constraints>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
                         </subviews>
                         <color key="backgroundColor" red="0.79215686269999996" green="0.81176470590000005" blue="0.82352941180000006" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
+                            <constraint firstItem="eQm-vV-weW" firstAttribute="top" secondItem="Q5m-Qx-Hkm" secondAttribute="bottom" id="1AW-eY-xyE"/>
                             <constraint firstItem="eQm-vV-weW" firstAttribute="trailing" secondItem="1EM-SD-tZD" secondAttribute="trailing" id="4ER-HJ-yI2"/>
                             <constraint firstItem="tC0-jo-DDv" firstAttribute="top" secondItem="dft-h5-oFz" secondAttribute="top" id="4Pj-uC-GxT"/>
                             <constraint firstItem="eQm-vV-weW" firstAttribute="bottom" secondItem="1EM-SD-tZD" secondAttribute="bottom" id="CmG-gL-ndy"/>
                             <constraint firstItem="1EM-SD-tZD" firstAttribute="trailing" secondItem="tC0-jo-DDv" secondAttribute="trailing" id="IG5-6c-tWK"/>
+                            <constraint firstItem="1EM-SD-tZD" firstAttribute="trailing" secondItem="Q5m-Qx-Hkm" secondAttribute="trailing" id="LAt-Lu-OTv"/>
                             <constraint firstItem="eQm-vV-weW" firstAttribute="leading" secondItem="1EM-SD-tZD" secondAttribute="leading" id="UGM-qV-PCz"/>
+                            <constraint firstItem="Q5m-Qx-Hkm" firstAttribute="top" secondItem="tC0-jo-DDv" secondAttribute="bottom" id="dTN-in-CMh"/>
+                            <constraint firstItem="Q5m-Qx-Hkm" firstAttribute="leading" secondItem="1EM-SD-tZD" secondAttribute="leading" id="jhO-qj-HBD"/>
                             <constraint firstItem="tC0-jo-DDv" firstAttribute="leading" secondItem="1EM-SD-tZD" secondAttribute="leading" id="q47-eA-Dit"/>
                             <constraint firstItem="1EM-SD-tZD" firstAttribute="trailing" secondItem="tC0-jo-DDv" secondAttribute="trailing" id="uwb-Eq-yjk"/>
                         </constraints>
@@ -1158,7 +1079,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GVD-dP-Oio" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6145" y="2698"/>
+            <point key="canvasLocation" x="6144.9275362318849" y="2697.3214285714284"/>
         </scene>
         <!--Gift Info View Controller-->
         <scene sceneID="0CG-J7-uqh">
@@ -5256,8 +5177,8 @@
         <image name="wifi" width="128" height="128"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="eWo-2H-I85"/>
         <segue reference="V9h-On-ogV"/>
-        <segue reference="XcO-x8-Kz2"/>
         <segue reference="f8J-2y-5uJ"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" red="0.16078431369999999" green="0.50196078430000002" blue="0.72549019609999998" alpha="1" colorSpace="calibratedRGB"/>

@@ -6,4 +6,6 @@ struct config {
     static let Event = main + "Event"
     static let Favorite_tour = main + "Favorite_tour"
     static let Tour_history = main + "Tour_history"
+    static let gifts = main + "gifts"
+
 }

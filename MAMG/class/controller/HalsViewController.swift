@@ -16,20 +16,7 @@ class HalsViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    @IBOutlet weak var firistHals: UIImageView!
-    
-    @IBAction func secoundhals(_ sender: Any) {
-    }
-    
-    @IBAction func thired(_ sender: Any) {
-    }
-    @IBAction func fourth(_ sender: Any) {
-    }
-    
-    @IBAction func six(_ sender: Any) {
-    }
-    @IBAction func fifth(_ sender: Any) {
-    }
+
     /*
     // MARK: - Navigation
 

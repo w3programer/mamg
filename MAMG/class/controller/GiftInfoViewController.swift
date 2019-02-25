@@ -10,16 +10,17 @@ import UIKit
 
 class GiftInfoViewController: UIViewController {
 
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-    
-    @IBOutlet weak var giftimage: UIImageView!
-    
-    @IBOutlet weak var giftDetailes: UILabel!
-    @IBOutlet weak var gifttitle: UILabel!
     /*
     // MARK: - Navigation
 

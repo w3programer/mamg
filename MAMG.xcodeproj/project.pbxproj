@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		23447D3BE5BC466239F0F945 /* Pods_MAMGUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60AF77551B23DCDB684EFC45 /* Pods_MAMGUITests.framework */; };
+		54126ACB22246B8C00B16926 /* giftCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54126ACA22246B8C00B16926 /* giftCollectionViewCell.swift */; };
+		54126ACD22246CAF00B16926 /* giftModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54126ACC22246CAF00B16926 /* giftModel.swift */; };
 		5463CB78221B60A500BB0329 /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463CB6A221B60A500BB0329 /* Extentions.swift */; };
 		5463CB79221B60A500BB0329 /* TextFiled+extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463CB6B221B60A500BB0329 /* TextFiled+extention.swift */; };
 		5463CB7A221B60A500BB0329 /* JSON+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463CB6C221B60A500BB0329 /* JSON+Extension.swift */; };
@@ -81,6 +83,8 @@
 /* Begin PBXFileReference section */
 		275CE8933FE796C80BBC5C20 /* Pods-MAMGUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAMGUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MAMGUITests/Pods-MAMGUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		451CE58DE68EEF988773E8D7 /* Pods-MAMG.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAMG.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MAMG/Pods-MAMG.debug.xcconfig"; sourceTree = "<group>"; };
+		54126ACA22246B8C00B16926 /* giftCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giftCollectionViewCell.swift; sourceTree = "<group>"; };
+		54126ACC22246CAF00B16926 /* giftModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giftModel.swift; sourceTree = "<group>"; };
 		5463CB6A221B60A500BB0329 /* Extentions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 		5463CB6B221B60A500BB0329 /* TextFiled+extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TextFiled+extention.swift"; sourceTree = "<group>"; };
 		5463CB6C221B60A500BB0329 /* JSON+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "JSON+Extension.swift"; sourceTree = "<group>"; };
@@ -213,6 +217,7 @@
 				5463CB8C221B8DE900BB0329 /* Hallmodell.swift */,
 				54D4F97B222061650023EE5C /* Wishlist.swift */,
 				54D4F97D2221D62B0023EE5C /* Event.swift */,
+				54126ACC22246CAF00B16926 /* giftModel.swift */,
 			);
 			path = model;
 			sourceTree = "<group>";
@@ -221,6 +226,7 @@
 			isa = PBXGroup;
 			children = (
 				5463CB88221B6FF400BB0329 /* Movicell_EN.swift */,
+				54126ACA22246B8C00B16926 /* giftCollectionViewCell.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -631,8 +637,10 @@
 				5463CB85221B60B400BB0329 /* Moviemodel.swift in Sources */,
 				5463CB80221B60A500BB0329 /* Style.swift in Sources */,
 				A0A631D421EC4EC0009B5799 /* SettingsViewController.swift in Sources */,
+				54126ACB22246B8C00B16926 /* giftCollectionViewCell.swift in Sources */,
 				FCB6FA3C220F3C4A0003C311 /* ObjectInfoViewController.swift in Sources */,
 				5463CB78221B60A500BB0329 /* Extentions.swift in Sources */,
+				54126ACD22246CAF00B16926 /* giftModel.swift in Sources */,
 				A05D97D3221038A400B171F4 /* ScitechInfoFile.swift in Sources */,
 				546C59EC22148BA600D54BFA /* HalsInformationViewController.swift in Sources */,
 				5463CB7C221B60A500BB0329 /* actionCheet+extention.swift in Sources */,

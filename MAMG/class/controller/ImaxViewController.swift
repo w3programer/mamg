@@ -12,6 +12,11 @@ class IMAXViewController: UIViewController ,UICollectionViewDataSource{
 
     }
     
+
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+        return movies.count
+        
+    }
     func getallMove() {
         
         Api.Movie { (error:Error?, result:[Movemodel]?) in
@@ -21,11 +26,6 @@ class IMAXViewController: UIViewController ,UICollectionViewDataSource{
         
         
     }
-    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return movies.count
-        
-    }
-    
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = moveCollection.dequeueReusableCell(withReuseIdentifier: "movieCell" ,for: indexPath) as! Movemodel
         cell.description_Ar = movies[indexPath.row].description_Ar
