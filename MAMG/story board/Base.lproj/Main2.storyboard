@@ -1029,7 +1029,7 @@
                                     <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
                                 </collectionViewFlowLayout>
                                 <cells>
-                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="4sq-Gv-CE0">
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="wishlistCollectionViewCell" id="4sq-Gv-CE0" customClass="wishlistCollectionViewCell" customModule="MAMG" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="0.0" width="190" height="167"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
@@ -1056,8 +1056,16 @@
                                             <constraint firstItem="aw0-y8-a5A" firstAttribute="top" secondItem="4sq-Gv-CE0" secondAttribute="topMargin" constant="-20" id="jub-BH-Il9"/>
                                             <constraint firstAttribute="trailingMargin" secondItem="aw0-y8-a5A" secondAttribute="trailing" constant="12" id="ocB-Sc-DGT"/>
                                         </constraints>
+                                        <connections>
+                                            <outlet property="image" destination="aw0-y8-a5A" id="Bn1-9R-AeE"/>
+                                            <outlet property="wishtitle" destination="SmG-xO-9kd" id="5t4-m1-b9l"/>
+                                        </connections>
                                     </collectionViewCell>
                                 </cells>
+                                <connections>
+                                    <outlet property="dataSource" destination="l3k-Sk-63g" id="m2J-lp-5M4"/>
+                                    <outlet property="delegate" destination="l3k-Sk-63g" id="6zB-yn-yHm"/>
+                                </connections>
                             </collectionView>
                         </subviews>
                         <color key="backgroundColor" red="0.79215686269999996" green="0.81176470590000005" blue="0.82352941180000006" alpha="1" colorSpace="calibratedRGB"/>
@@ -1076,6 +1084,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="1EM-SD-tZD"/>
                     </view>
+                    <connections>
+                        <outlet property="wishlistCollection" destination="Q5m-Qx-Hkm" id="JDf-r1-25l"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GVD-dP-Oio" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -5177,7 +5188,7 @@
         <image name="wifi" width="128" height="128"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="eWo-2H-I85"/>
+        <segue reference="XcO-x8-Kz2"/>
         <segue reference="V9h-On-ogV"/>
         <segue reference="f8J-2y-5uJ"/>
     </inferredMetricsTieBreakers>

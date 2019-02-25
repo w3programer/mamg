@@ -28,8 +28,9 @@ class GiftshopeViewController: UIViewController ,UICollectionViewDataSource{
         
     }
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = moveCollection.dequeueReusableCell(withReuseIdentifier: "giftcell" ,for: indexPath) as! giftCollectionViewCell
-        cell.title = movies[indexPath.row].gift_name
+        let cell = giftcollection.dequeueReusableCell(withReuseIdentifier: "giftcell" ,for: indexPath) as! giftCollectionViewCell
+        cell.gifttitle.text = giftarray[indexPath.row].gift_name
+        return cell
         
     }
 

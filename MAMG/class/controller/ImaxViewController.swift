@@ -31,7 +31,7 @@ class IMAXViewController: UIViewController ,UICollectionViewDataSource{
         cell.description_Ar = movies[indexPath.row].description_Ar
         cell.description_E = movies[indexPath.row].description_E
         cell.picture = movies[indexPath.row].picture
-
+return cell
     }
     
 

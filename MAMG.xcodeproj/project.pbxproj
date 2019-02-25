@@ -10,6 +10,7 @@
 		23447D3BE5BC466239F0F945 /* Pods_MAMGUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60AF77551B23DCDB684EFC45 /* Pods_MAMGUITests.framework */; };
 		54126ACB22246B8C00B16926 /* giftCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54126ACA22246B8C00B16926 /* giftCollectionViewCell.swift */; };
 		54126ACD22246CAF00B16926 /* giftModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54126ACC22246CAF00B16926 /* giftModel.swift */; };
+		54126ACF2224745F00B16926 /* wishlistCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54126ACE2224745F00B16926 /* wishlistCollectionViewCell.swift */; };
 		5463CB78221B60A500BB0329 /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463CB6A221B60A500BB0329 /* Extentions.swift */; };
 		5463CB79221B60A500BB0329 /* TextFiled+extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463CB6B221B60A500BB0329 /* TextFiled+extention.swift */; };
 		5463CB7A221B60A500BB0329 /* JSON+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5463CB6C221B60A500BB0329 /* JSON+Extension.swift */; };
@@ -85,6 +86,7 @@
 		451CE58DE68EEF988773E8D7 /* Pods-MAMG.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MAMG.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MAMG/Pods-MAMG.debug.xcconfig"; sourceTree = "<group>"; };
 		54126ACA22246B8C00B16926 /* giftCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giftCollectionViewCell.swift; sourceTree = "<group>"; };
 		54126ACC22246CAF00B16926 /* giftModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giftModel.swift; sourceTree = "<group>"; };
+		54126ACE2224745F00B16926 /* wishlistCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wishlistCollectionViewCell.swift; sourceTree = "<group>"; };
 		5463CB6A221B60A500BB0329 /* Extentions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 		5463CB6B221B60A500BB0329 /* TextFiled+extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TextFiled+extention.swift"; sourceTree = "<group>"; };
 		5463CB6C221B60A500BB0329 /* JSON+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "JSON+Extension.swift"; sourceTree = "<group>"; };
@@ -227,6 +229,7 @@
 			children = (
 				5463CB88221B6FF400BB0329 /* Movicell_EN.swift */,
 				54126ACA22246B8C00B16926 /* giftCollectionViewCell.swift */,
+				54126ACE2224745F00B16926 /* wishlistCollectionViewCell.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -639,6 +642,7 @@
 				A0A631D421EC4EC0009B5799 /* SettingsViewController.swift in Sources */,
 				54126ACB22246B8C00B16926 /* giftCollectionViewCell.swift in Sources */,
 				FCB6FA3C220F3C4A0003C311 /* ObjectInfoViewController.swift in Sources */,
+				54126ACF2224745F00B16926 /* wishlistCollectionViewCell.swift in Sources */,
 				5463CB78221B60A500BB0329 /* Extentions.swift in Sources */,
 				54126ACD22246CAF00B16926 /* giftModel.swift in Sources */,
 				A05D97D3221038A400B171F4 /* ScitechInfoFile.swift in Sources */,

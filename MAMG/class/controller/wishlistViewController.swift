@@ -8,25 +8,24 @@
 
 import UIKit
 
-class wishlistViewController: UIViewController {
+class wishlistViewController: UIViewController ,UICollectionViewDataSource,UICollectionViewDelegate {
+  var wishlistarray = [wishListModell]()
+    
 
+    @IBOutlet weak var wishlistCollection: UICollectionView!
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+    }
+    func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
+       return wishlistarray.count
     }
     
-
-    @IBAction func wishlist(_ sender: Any) {
+    func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
+        let cell = wishlistCollection.dequeueReusableCell(withReuseIdentifier: "wishlistCollectionViewCell" ,for: indexPath) as! wishlistCollectionViewCell
+        cell.image = wishlistarray[indexPath.row].U_id
+        cell.wishtitle = wishlistarray[indexPath.row].Wishlist_id
+        return cell
+        
     }
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
 }
